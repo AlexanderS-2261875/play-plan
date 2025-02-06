@@ -1,0 +1,34 @@
+[
+  {
+    "name": "4-4-2",
+    "players": [
+      {"number": 1, "name": "GK", "position": {"x": 50, "y": 250}, "key": "442p1"},
+      {"number": 4, "name": "RB", "position": {"x": 225, "y": 450}, "key": "442p2"},
+      {"number": 5, "name": "LB", "position": {"x": 225, "y": 50}, "key": "442p3"},
+      {"number": 2, "name": "CB", "position": {"x": 150, "y": 150}, "key": "442p4"},
+      {"number": 3, "name": "CB", "position": {"x": 150, "y": 350}, "key": "442p5"},
+      {"number": 6, "name": "CM", "position": {"x": 300, "y": 250}, "key": "442p6"},
+      {"number": 8, "name": "LM", "position": {"x": 400, "y": 125}, "key": "442p7"},
+      {"number": 8, "name": "RM", "position": {"x": 400, "y": 375}, "key": "442p11"},
+      {"number": 10, "name": "CM", "position": {"x": 500, "y": 250}, "key": "442p10"},
+      {"number": 9, "name": "ST", "position": {"x": 600, "y": 350}, "key": "442p9"},
+      {"number": 9, "name": "ST", "position": {"x": 600, "y": 150}, "key": "442p8"}
+    ]
+  },
+  {
+    "name": "4-3-3",
+    "players": [
+      {"number": 1, "name": "GK", "position": {"x": 50, "y": 250}, "key": "433p1"},
+      {"number": 2, "name": "CB", "position": {"x": 150, "y": 175}, "key": "433p2"},
+      {"number": 3, "name": "CB", "position": {"x": 150, "y": 325}, "key": "433p3"},
+      {"number": 4, "name": "RB", "position": {"x": 225, "y": 450}, "key": "433p4"},
+      {"number": 5, "name": "LB", "position": {"x": 225, "y": 50}, "key": "433p5"},
+      {"number": 6, "name": "CM", "position": {"x": 300, "y": 250}, "key": "433p6"},
+      {"number": 8, "name": "CM", "position": {"x": 400, "y": 100}, "key": "433p7"},
+      {"number": 10, "name": "CM", "position": {"x": 400, "y": 400}, "key": "433p8"},
+      {"number": 7, "name": "RW", "position": {"x": 550, "y": 450}, "key": "433p9"},
+      {"number": 11, "name": "LW", "position": {"x": 550, "y": 50}, "key": "433p10"},
+      {"number": 9, "name": "ST", "position": {"x": 600, "y": 250}, "key": "433p11"}
+    ]
+  }
+]

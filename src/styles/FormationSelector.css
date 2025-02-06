@@ -1,0 +1,29 @@
+.select{
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.home{
+    float: left;
+}
+
+.away{
+    float: right;
+}
+
+.selector-list {
+    list-style-type: none;
+    margin: 0;
+    width: 50%;
+    padding: 0 0 3vh 0;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.selector-list li{
+    display: inline-block;
+}
